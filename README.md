@@ -328,3 +328,5 @@ flow** to handle exceptions gracefully.
 
 - [Custom Exceptions in Ruby](https://www.honeybadger.io/blog/ruby-custom-exceptions/)
 - [Rescuing Exceptions in Ruby](https://www.rubyguides.com/2019/06/ruby-rescue-exceptions/)
+
+https://github.com/G3o-R/phase-3-metaprogramming-custom-errors
